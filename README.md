@@ -48,6 +48,16 @@ Hi there! 👋 I'm Feroz Ahmmed, a **Senior Developer** with over 6 years of exp
 - Enhanced **multilingual support** using Google Translator with caching, reducing translation time by 50%.
 - Improved **report generation** time by 200% through **reactive programming** and asynchronous processing.
 
+## **Reference**
+
+### Badr El Moujtahid (CEO at Sittap)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/badr-el-moujtahid-8a321126/)
+
+- **Email**: [services@sittap.com](mailto:services@sittap.com)
+- **Phone**: +33 6 72 85 50 41
+- **Instagram**: [@sittap_fr](https://www.instagram.com/sittap_fr)
+
 ---
 
 ### **Junior Developer** at **Data Host, Dhaka, Bangladesh**  
